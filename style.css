@@ -139,3 +139,17 @@ svg {
         margin-bottom: 10px;
     }
 }
+ul {
+
+    list-style: none;
+  }
+  .animation {
+    vertical-align: sub;
+    height: 1em;
+    overflow: hidden;
+    display: inline-block;
+    line-height: 2em;
+
+ }
+ 
+  
